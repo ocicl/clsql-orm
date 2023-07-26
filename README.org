@@ -1,0 +1,10 @@
+* clsql-orm
+
+A common lisp object / relational mapping library, the goal of which, is to generate common lisp objects from a running database schema
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/AccelerationNet/clsql-orm.git   |
+| commit  | 27bb274  |
+| systems | clsql-orm |
+|---------+-------------------------------------------|
+
